@@ -1,1 +1,0 @@
-This is a website to learn how to create cutom theme on shopify.
